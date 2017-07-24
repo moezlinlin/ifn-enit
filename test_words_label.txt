@@ -1,0 +1,11 @@
+ae07_001	aaA-laB-shM-raE-aaA-yaB-ayE
+ae07_002	daA-waAllL-aaA-raA-aaA-laB-laMllL-waE-aaA-taB-teE
+ae07_003	aaA-laB-laM-waE-aaA-taB-teE
+ae07_004	aaA-laB-kaM-laM-ayM-teE-aaA-laB-saMllL-ghM-raE-eeA
+ae07_005	aaA-laB-daE-khBllL-aaE-naB-yaM-teE
+ae07_006	aaA-laB-naM-aaE-deB-waE-raA
+ae07_007	kaB-faM-saM-teE-haB-yaEllL-aaA-laB-shM-baM-aaE-baA
+ae07_008	aaA-laB-heM-yaM-shM-raE-yaBllL-teE
+ae07_009	aaA-laB-raE-daA-yaB-faE-aaA-haMmaMlaB-toMllL-teE
+ae07_010	haB-yaEllL-aaA-laB-taM-haM-raE-yaB-raE
+ae07_011	maB-aaE-raA-thA
